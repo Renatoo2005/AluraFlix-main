@@ -1,0 +1,19 @@
+.category-list {
+    margin: 20px 0;
+  }
+  
+  .videos {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .video-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 150px;
+  }
+  
+  .video-card img {
+    width: 100%;
+  }
+  

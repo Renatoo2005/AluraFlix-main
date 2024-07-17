@@ -1,0 +1,20 @@
+.video-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.video-card img {
+  width: 100%;
+  height: auto;
+}
+
+.video-card h3 {
+  margin: 10px 0;
+}
+
+.video-card p {
+  color: #555;
+}
